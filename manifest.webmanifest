@@ -1,0 +1,16 @@
+{
+  "name": "BNR Play Timeline",
+  "short_name": "BNR Play",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0c0f",
+  "theme_color": "#ffcc00",
+  "icons": [
+    {
+      "src": "icons/bnr-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
