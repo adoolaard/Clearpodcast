@@ -1,0 +1,92 @@
+[
+  {
+    "id": "strategist-2025-11-16-09",
+    "title": "De Strateeg",
+    "host": "Maarten Bouwhuis",
+    "publishedAt": "2025-11-16T09:00:00+01:00",
+    "duration": "48m",
+    "description": "Technologische autonomie, defensie en geopolitiek: een scherpe analyse van de week.",
+    "image": "https://www.bnr.nl/podcast_image/4341329/strategist.jpg",
+    "audioUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3"
+  },
+  {
+    "id": "proforma-2025-11-16-12",
+    "title": "Pro Forma",
+    "host": "Paul van Liempt",
+    "publishedAt": "2025-11-16T12:00:00+01:00",
+    "duration": "45m",
+    "description": "Rechtszaken, de rechtsstaat en de mensen erachter: elke week met gasten uit de juridische wereld.",
+    "image": "https://www.bnr.nl/podcast_image/4546877/proforma.jpg",
+    "audioUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3"
+  },
+  {
+    "id": "boekestijn-2025-11-16-17",
+    "title": "Boekestijn en De Wijk",
+    "host": "AIVD alumnus Rob de Wijk & Arend Jan Boekestijn",
+    "publishedAt": "2025-11-16T17:00:00+01:00",
+    "duration": "39m",
+    "description": "Geopolitiek ontrafeld met scherpe inzichten en historische context.",
+    "image": "https://www.bnr.nl/podcast_image/4166695/boekestijnenwijk.jpg",
+    "audioUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3"
+  },
+  {
+    "id": "cmo-2025-11-15-10",
+    "title": "CMOtalk",
+    "host": "Klaas Weima",
+    "publishedAt": "2025-11-15T10:00:00+01:00",
+    "duration": "50m",
+    "description": "Chief Marketing Officers delen hun lessons learned en campagnes.",
+    "image": "https://www.bnr.nl/podcast_image/4142967/cmotalka.jpg",
+    "audioUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3"
+  },
+  {
+    "id": "cryptocast-2025-11-15-06",
+    "title": "Cryptocast",
+    "host": "Herbert Blankesteijn & Daniël Mol",
+    "publishedAt": "2025-11-15T06:30:00+01:00",
+    "duration": "55m",
+    "description": "Wekelijkse deep-dive in bitcoin, blockchain en digital assets.",
+    "image": "https://www.bnr.nl/podcast_image/4336877/cryptocast.jpg",
+    "audioUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3"
+  },
+  {
+    "id": "fridaymove-2025-11-15-16",
+    "title": "The Friday Move",
+    "host": "Wilfred Genee",
+    "publishedAt": "2025-11-15T16:00:00+01:00",
+    "duration": "2h",
+    "description": "Live vanuit een bruisende locatie met politici, ondernemers en artiesten.",
+    "image": "https://www.bnr.nl/podcast_image/4342611/fridaymove.jpg",
+    "audioUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3"
+  },
+  {
+    "id": "mkb-2025-11-14-06",
+    "title": "MKB Café",
+    "host": "Laureen Verster",
+    "publishedAt": "2025-11-14T06:00:00+01:00",
+    "duration": "30m",
+    "description": "Voor ondernemers door ondernemers: persoonlijke verhalen en praktische tips.",
+    "image": "https://www.bnr.nl/podcast_image/4257119/mkbcafe.jpg",
+    "audioUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3"
+  },
+  {
+    "id": "boekestijn-2025-11-14-09",
+    "title": "Boekestijn en De Wijk",
+    "host": "Arend Jan Boekestijn & Rob de Wijk",
+    "publishedAt": "2025-11-14T09:00:00+01:00",
+    "duration": "38m",
+    "description": "De geopolitieke agenda van de dag in 40 minuten.",
+    "image": "https://www.bnr.nl/podcast_image/4166695/boekestijnenwijk.jpg",
+    "audioUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3"
+  },
+  {
+    "id": "podcast-update-2025-11-14-11",
+    "title": "BNR Podcast Update",
+    "host": "Redactie BNR",
+    "publishedAt": "2025-11-14T11:30:00+01:00",
+    "duration": "15m",
+    "description": "Dagelijkse selectie van de nieuwste BNR-podcasts en highlights.",
+    "image": "https://www.bnr.nl/podcast_image/4376175/podcastupdate.jpg",
+    "audioUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3"
+  }
+]
